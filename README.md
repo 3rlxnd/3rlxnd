@@ -25,8 +25,8 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 
 ### Experience
 
-08/2021 - 08/2024
+`08/2021 - 08/2024`
 - Full-Stack Development
 
-10/2020 - 08/2024
+`10/2020 - 08/2024`
 - SaaS Management
