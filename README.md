@@ -1,9 +1,19 @@
-## Hi there 👋
+## Hey, nice to meet you!
 
-<!--
-**3rlxnd/3rlxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Details
 
-Here are some ideas to get you started:
+Hello, my Name is Erland. I'm 24 and I live in Berlin. 
+
+### Programing skills:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. TypeScript
+5. Python
+6. C++
+
+![JavaScript](https://abrudz.github.io/logos/JS.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
