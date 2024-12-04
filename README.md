@@ -35,3 +35,8 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 
 ---
 
+### Experience
+
+- Freerunning
+- Skating
+- Snowboarding
