@@ -1,8 +1,6 @@
-## Hey, nice to meet you!
+## Hi, nice to meet you!
 
-### Details
-
-Hello, my Name is Erland. I'm 24 and I live in Berlin. 
+![Banner](./Banner.png)
 
 ### Programing skills:
 
