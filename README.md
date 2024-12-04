@@ -10,6 +10,7 @@ I'm a Software Engineer and Designer from Berlin. My specialized Programing Lang
 
 ![Icon](./location.svg)
 
+
 ![Icon](./envelope.svg) Email: erlnd.gdt@gmail.com
 
 ![Icon](./phone.svg) Tel.: +4917662918292
