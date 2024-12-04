@@ -16,6 +16,10 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,docker,github,angular,react&perline=6)
 
+#### Software
+
+![My Skills](https://skillicons.dev/icons?i=unity,blender,ai,ps&perline=6)
+
 ---
 
 ### Experience
