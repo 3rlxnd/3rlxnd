@@ -1,4 +1,4 @@
-## Hi, nice to meet you!
+## Hi, nice to meet you!👋🏼
 
 ![Banner](./Banner.png)
 
