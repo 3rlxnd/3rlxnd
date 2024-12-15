@@ -1,7 +1,5 @@
 ## Hi, nice to meet you!👋🏼
 
-![Banner](./Banner.png)
-
 I'm a Software Engineer and Designer based in Berlin, driven by a deep passion for coding and creativity. With every project, I strive to blend innovative design with efficient, clean code to create solutions that are both functional and visually engaging. From crafting intuitive user experiences to developing robust applications, I find joy in turning ideas into reality. Let's build something extraordinary together!
 
 ---
