@@ -8,7 +8,7 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 
 #### Languages
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,cpp,html,css&perline=6)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,pyhton,html,css,cs,cpp&perline=6)
 
 #### Technologies
 
