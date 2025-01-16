@@ -30,5 +30,3 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 
 `04/2019 - 10/2020`
 - System Administration
-
----
