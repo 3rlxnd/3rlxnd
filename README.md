@@ -8,7 +8,7 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 
 #### Languages
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,python,html,css,cs,cpp&perline=6)
+![My Skills](https://skillicons.dev/icons?i=js,python,html,css&perline=6)
 
 #### Technologies
 
@@ -32,9 +32,3 @@ I'm a Software Engineer and Designer based in Berlin, driven by a deep passion f
 - System Administration
 
 ---
-
-### Freetime
-
-- Freerunning
-- Skating
-- Snowboarding
